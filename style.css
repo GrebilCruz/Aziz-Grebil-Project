@@ -1,17 +1,17 @@
 body{
-    text-justify: center;
-}
-
-
-
-#main-tribute {
-    
+    display: flex;
+    flex-wrap: wrap;
     justify-content: center;
-    text-justify: center;
-    width: 100%;
+    align-items: center;
+    text-align: center;
+    width: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
 }
 
+#img-caption{
+    max-width: 100%;
+    height: auto;
 
-#first-thing {
-    
 }
+
